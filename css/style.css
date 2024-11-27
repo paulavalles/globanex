@@ -116,7 +116,8 @@ html {
   font-weight: 400;
   background: #234197;
   color: #fff;
-  margin-left: 10px;
+  display: flex;
+  justify-self: center;
 }
 .fh5co-hero-inner .fh5co-hero-smartphone {
   position: absolute;
