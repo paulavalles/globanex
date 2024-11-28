@@ -191,12 +191,13 @@ html {
 .fh5co-slider-outer {
   width: 100%;
   height: auto;
-  padding: 70px;
+  padding: 50px;
+  padding-top: 0%;
 }
 .fh5co-slider-outer h1 {
   color: #648cff;
   text-transform: uppercase;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 600;
   margin-bottom: 10px;
   text-align: center;
@@ -204,9 +205,6 @@ html {
 .fh5co-slider-outer > h1, .fh5co-slider-outer small {
   text-align: center;
   display: block;
-}
-.fh5co-slider-outer .fh5co-slider-outer {
-  margin-top: 50px;
 }
 .fh5co-slider-outer .carousel-left-arrow {
   position: absolute;
@@ -223,8 +221,8 @@ html {
   color: #ececec;
 }
 .fh5co-slider-outer .item img {
-  height: 400px;
-  width: 200px;
+  height: 200px;
+  width: 100px;
   object-fit: contain;
 }
 
@@ -235,13 +233,13 @@ html {
   background-image: linear-gradient(to top, #ffffff 0%, #ace0f9 100%);
   background-size: cover;
   width: 100%;
-  height: 300px;
+  height: 1500px;
+  position: absolute;
 }
 
 .fh5co-features-outer {
   width: 100%;
   height: auto;
-  margin-top: -180px;
 }
 .fh5co-features-outer .col-sm-6 {
   margin-top: 80px;
