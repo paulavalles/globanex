@@ -660,10 +660,6 @@ html {
     margin-top: 0px;
   }
 
-  .fh5co-features-outer {
-    margin-top: -100px;
-  }
-
   .fh5co-features-outer .sm-6-content p {
     width: 100%;
   }
@@ -937,7 +933,7 @@ html {
   }
 
   .fh5co-hero-inner .fh5co-hero-smartphone {
-    height: 450px;
+    height: 240px;
     top: 420px;
     margin-top: 70px;
   }
