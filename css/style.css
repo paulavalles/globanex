@@ -92,8 +92,8 @@ html {
 }
 .fh5co-hero-inner > h1 {
   color: #fff;
-  font-weight: 300;
-  font-size: 55px;
+  font-weight: 500;
+  font-size: 45px;
   letter-spacing: 2px;
 }
 .fh5co-hero-inner > p {
@@ -252,7 +252,7 @@ html {
   position: relative;
 }
 .fh5co-features-outer .sm-6-content h1 {
-  color: #648cff;
+  color: #234197;
   text-transform: uppercase;
   font-size: 25px;
   font-weight: 600;
@@ -447,7 +447,8 @@ html {
 .fh5co-bottom-outer .fh5co-bottom-inner .col-sm-6 p {
   width: 350px;
   color: #fff;
-  font-size: 14.5px;
+  font-size: 20px;
+  font-weight: 400;
   line-height: 1.85em;
 }
 .fh5co-bottom-outer .fh5co-bottom-inner .col-sm-6 img {
@@ -468,8 +469,8 @@ html {
 .footer-outer {
   width: 100%;
   padding: 50px;
-  height: 250px;
-  background: #2e3149;
+  height: 170px;
+  background: #ffffff;
   overflow: hidden;
 }
 .footer-outer .footer-inner {
@@ -555,12 +556,12 @@ html {
   height: 1px;
   width: 60%;
   margin: 0 auto;
-  border: 1px solid #434769;
+  border: 1px solid #b5b5c8;
   display: block;
   margin-top: 50px;
 }
 .footer-outer .copyright {
-  color: #565b87;
+  color: #b5b5c8;
   text-align: center;
   font-size: 13px;
   padding: 40px 0;
