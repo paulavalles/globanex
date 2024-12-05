@@ -7,12 +7,12 @@
         new WOW().init();
 
         $('.owl-carousel').owlCarousel({
-            items : 4,
+            items : 5,
             loop  : true,
-            margin : 170,
+            margin : 100,
             center : true,
-            smartSpeed :1000,
-            nav:true,
+            smartSpeed : 1500,
+            nav: true,
             navText: [
                 "<i class='fa carousel-left-arrow fa-chevron-left'></i>",
                 "<i class='fa carousel-right-arrow fa-chevron-right'></i>"
@@ -32,7 +32,7 @@
                     nav:true,
                     loop:true,
                     autoplay: true,
-                    autoplayTimeout: 4000,
+                    autoplayTimeout: 7000,
                     navText: [
                         "<i class='fa carousel-left-arrow fa-chevron-left'></i>",
                         "<i class='fa carousel-right-arrow fa-chevron-right'></i>"
